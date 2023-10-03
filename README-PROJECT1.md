@@ -56,6 +56,6 @@ In this section, you will find an updated version of the infrastructure architec
 
 ![Web app login](src/main//webapp/resources/Images/webapplogin.png)
 ![Webapp](src/main//webapp/resources/Images/webapp.png)
-![Users](src/main//webapp/resources/Images/user.png)
+![Users](src/main//webapp/resources/Images/users.png)
 ![Db](src/main//webapp/resources/Images/db.png)
 ![RabbitMQ](src/main//webapp/resources/Images/rabbitmq.png)
